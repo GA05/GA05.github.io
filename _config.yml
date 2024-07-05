@@ -1,4 +1,6 @@
-markdown: kramdown
+# Site settings
+title: Grace's Portfolio
+description: Showcase of projects and skills
+
+# Theme settings
 theme: jekyll-theme-minimal
-title:Grace Zavier Antony
-description: Portfolio websiite
