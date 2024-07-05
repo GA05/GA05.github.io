@@ -1,147 +1,54 @@
+# Grace Zavier Antony
+Mumbai, Maharashtra | 9321XXXXXX | graceantony0505@gmail.com | [LinkedIn](https://www.linkedin.com/in/grace-zavier-antony-690982229)
 
-# Your Name Here
-## Your Position or Tagline Here
+## EDUCATION
 
-![Profile Picture](Globe_High.png){ width=2.8cm }
+**Fr. Conceicao Rodrigues College of Engineering**  
+Mumbai, India  
+Bachelor of Engineering in Computer Engineering  
+August 2021 - May 2025  
+Relevant courses: Artificial Intelligence, Machine Learning, Data Structures, Natural Language Processing, OOP
 
-- **Email:** your_name@email.com
-- **Phone:** 000-00-0000
-- **Address:** Åddrésş, Street, 00000 Cóuntry
-- **Location:** Location, COUNTRY
-- **Homepage:** [www.homepage.com](http://www.homepage.com)
-- **Twitter:** [@twitterhandle](https://twitter.com/twitterhandle)
-- **LinkedIn:** [your_id](https://www.linkedin.com/in/your_id)
-- **GitHub:** [your_id](https://github.com/your_id)
-- **ORCID:** [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
+## TECHNICAL SKILLS & ONLINE CERTIFICATIONS
 
----
+- **Programming languages:** Python, SQL, R, Java
+- **Concepts:** Keras and TensorFlow, Transfer learning, DBMS, Machine Learning, Data Analytics, Data Warehousing, AWS
+- **Google Analytics Individual Qualification** - Google
+- **The fundamentals of digital marketing** - Google
 
-## Experience
+## PROFESSIONAL EXPERIENCE
 
-### Job Title 1
-**Company 1**  
-Month 20XX -- Ongoing  
-Location
+### Data Science Intern -- Retransform
+September 2023 - March 2024
+- Developed advanced formulas to manipulate and analyze complex datasets effectively.
+- Designed and implemented code scripts to streamline data processing and enhance efficiency.
+- Conducted thorough data analysis to derive insights and optimize decision-making processes, contributing to data warehousing initiatives within the ESG report framework.
 
-- Job description 1
-- Job description 2
+### Marketing Intern -- The Annet Group
+June 2023
+- Spearheaded marketing team, strategically harnessing digital avenues to secure international clientele.
+- Innovated marketing strategies, enhanced product visibility, and managed positive customer relations for improved experiences.
+- Crafted articles for symposiums and expositions attended by the team, alongside proficient case study composition.
 
----
+### Freelance Content Writer
+- Created high-quality, SEO-optimized content.
+- Researched diverse topics and met deadlines.
 
-### Job Title 2
-**Company 2**  
-Month 20XX -- Ongoing  
-Location
+## PROJECTS
 
-- Job description 1
-- Job description 2
+### Interactive Team Aptitude Testing Application using Artificial Intelligence
+- Developed Python quiz application integrating Artificial Intelligence algorithms to dynamically generate questions based on user proficiency levels.
+- Acquired proficiency in data collection and analysis techniques through the implementation of AI-driven question designation based on user performance.
+- Demonstrated programming proficiency and problem-solving skills by designing an interactive application with adaptive features to enhance user experience.
 
----
+### Marathi Sign Language Detection (Deep learning and Python)
+- Implemented deep learning to achieve precise Marathi sign gesture recognition.
+- Engineered a tailored CNN Linear and Sequential Model
 
-## Projects
+### Automated Financial Advisory for Portfolio Analysis and Financial Forecasting
+- Orchestrated the development of the Automated Financial Advisory for Portfolio analysis and Financial Forecasting website, streamlining stock prediction with an accuracy of 99.6% and various calculation formulas for debt, loans, etc.
+- Enhanced financial literacy among users by 30% through the implementation of website-based educational initiatives.
 
-### Project 1
-**Funding agency/institution**
-
-- Details
-
----
-
-### Project 2
-**Funding agency/institution**  
-Project duration
-
-- A short abstract would also work.
-
----
-
-## A Day of My Life
-
-- **Sleep, beautiful sleep:** 6 hours
-- **Hopeful novelist by night:** 3 hours
-- **Daytime job:** 8 hours
-- **Sports and relaxation:** 2 hours
-- **Spending time with family:** 5 hours
-
----
-
-## Publications
-
-### Books
-- List of books
-
-### Journal Articles
-- List of journal articles
-
-### Conference Proceedings
-- List of conference proceedings
-
----
-
-## My Life Philosophy
-
-> "Something smart or heartfelt, preferably in one sentence."
-
----
-
-## Most Proud of
-
-### Fantastic Achievement
-- Details about the achievement
-
-### Another achievement
-- More details about this achievement
-
-### Another achievement
-- More details about this achievement
-
----
-
-## Strengths
-
-- Hard-working
-- Eye for detail
-- Motivator & Leader
-- C++
-- Embedded Systems
-- Statistical Analysis
-
----
-
-## Languages
-
-- **English:** 5 (Native proficiency)
-- **Spanish:** 4 (Advanced)
-- **German:** 3.5 (Intermediate)
-
----
-
-## Education
-
-### Ph.D. in Your Discipline
-**Your University**  
-Sept 2002 -- June 2006  
-Thesis title: Wonderful Research
-
-### M.Sc. in Your Discipline
-**Your University**  
-Sept 2001 -- June 2002
-
-### B.Sc. in Your Discipline
-**Stanford University**  
-Sept 1998 -- June 2001
-
----
-
-## Referees
-
-### Prof. Alpha Beta
-**Institute**  
-a.beta@university.edu  
-Address Line 1, Address line 2
-
-### Prof. Gamma Delta
-**Institute**  
-g.delta@university.edu  
-Address Line 1, Address line 2
-
+## ACHIEVEMENTS & EXTRA CURRICULARS
+- Short Listed Team for Smart India Hackathon for the year 2023
+- Students' Council 2022-23, 2023-24
